@@ -1,0 +1,13 @@
+#EXTM3U 
+#EXTINF: -1 tvg-chno="1" group-title="News", RT 1
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+#EXTINF: -1 tvg-chno="2" group-title="News", RT 2
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF: -1 tvg-chno="3" group-title="News", R24
+https://uiptv.do.am/1ufc/000000006/playlist.m3u8
+#EXTINF: -1 tvg-chno="4" group-title="News", CNN 1
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF: -1 tvg-chno="5" group-title="News", CNN 2
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
+#EXTINF: -1 tvg-chno="6" group-title="News", ABC
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
